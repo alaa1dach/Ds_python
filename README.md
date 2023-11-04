@@ -17,4 +17,4 @@ Bienvenue dans le dépôt de notre projet de gestion de tâches. Ce projet a ét
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/projet-gestion-de-taches.git
+git clone https://github.com/alaa1dach/Ds_python/blob/main/DS.py
