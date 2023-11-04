@@ -2,7 +2,7 @@
 # Projet de Gestion de Tâches
 
 Bienvenue dans le dépôt de notre projet de gestion de tâches. Ce projet a été développé pour faciliter la gestion des tâches au sein de notre équipe. Il offre des fonctionnalités pour créer, attribuer, suivre et marquer les tâches comme complétées. Voici quelques informations clés sur le projet :
-
+Ce projet est réalisé avec @https://github.com/nasriadam 
 ## Fonctionnalités
 
 - Création de tâches avec une description, une date limite et une priorité.
